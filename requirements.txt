@@ -1,0 +1,9 @@
+twilio
+pyautogui
+pygetwindow
+cmake
+dlib
+face_recognition
+numpy~=1.24.1
+opencv-python~=4.7.0.68
+PyGetWindow~=0.0.9
